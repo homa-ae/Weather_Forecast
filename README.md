@@ -1,7 +1,7 @@
 # Weather-Forecast
-# Intro
+## Intro
 This project provides users with a convenient way to access accurate and up-to-date weather information based on their preferences and chosen locations.
-# 1. Git
+## 1. Git
 
 # 2. UML
 ![Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Entity-Relationship%20Diagram.jpg?raw=true)
