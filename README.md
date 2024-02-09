@@ -10,7 +10,7 @@ _
 * The *[Class Diagram]*(https://github.com/homa-ae/Weather-Forecast/blob/main/Class%20Diagram.md)
 
 ## 3. DDD
-
+[Diagram 1](https://github.com/homa-ae/Weather-Forecast/blob/main/Entity-Relationship%20Diagram.jpg)
 ## 4. Metrics
 
 
