@@ -7,7 +7,7 @@ _
 * The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Entity-Relationship%20Diagram.jpg) 
 * The [Use Case Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Use%20Case%20Diagram.jpg)
 * The [Sequence Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Sequence%20Diagram.jpg)
-* The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Class%20Diagram.md)
+* The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Class%20Diagram.jpg)
 
 ## 3. DDD
 
