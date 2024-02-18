@@ -12,5 +12,6 @@ _
 ## 3. DDD
 
 ## 4. Metrics
+I integrated SonarCloud with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 [SonarCloud](https://sonarcloud.io/projects?reliability=1)
 
