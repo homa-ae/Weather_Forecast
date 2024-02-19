@@ -18,3 +18,5 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 ## Continuous Delivery
 ## Unit Tests
 ## IDE
+## DSL
+## Functional Programming
