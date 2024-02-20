@@ -14,6 +14,9 @@ This project provides users with a convenient way to access accurate and up-to-d
 ## 4. Metrics
 I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 ## Clean Code Development
+Clean Code Development (CCD) Cheat Sheet
+I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
+I applied modularity structure to encapsulate specific tasks into separate functions, promote maintainability and reusability.
 ## Build
 ## Continuous Delivery
 ## Unit Tests
