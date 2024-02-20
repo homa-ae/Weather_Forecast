@@ -1,7 +1,7 @@
-# Clean Code Development Cheatsheet:
+## Clean Code Development Cheatsheet:
 
 1. Descriptive Naming:
-   - Use clear and descriptive variable and function names for improved readability.
+   * Use clear and descriptive variable and function names for improved readability.
    
 2. Modularity:
    - Encapsulate specific tasks into separate functions to promote maintainability and reusability.
