@@ -1,4 +1,4 @@
-## Clean Code Development Cheatsheet:
+#### Clean Code Development Cheatsheet:
 1. Single Responsibility Principle (SRP): Each function or class should have only one responsibility.
 2. DRY (Don't Repeat Yourself): Avoid duplicate code by abstracting common functionality into reusable functions or classes.
 3. KISS (Keep It Simple, Stupid): Strive for simplicity in design and implementation.
