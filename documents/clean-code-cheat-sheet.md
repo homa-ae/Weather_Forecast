@@ -1,6 +1,9 @@
 ## Clean Code Development Cheatsheet:
 
-I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
+1. Descriptive Naming:  
+- I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
+
+- 
 I applied modularity structure to encapsulate specific tasks into separate functions, promote maintainability and reusability.
 Consistent formatting and style choices are used throughout the codebase, contributing to its cleanliness and ease of understanding.
 
