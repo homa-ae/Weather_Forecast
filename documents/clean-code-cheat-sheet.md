@@ -1,27 +1,20 @@
 ## Clean Code Development Cheatsheet:
 
 1. Descriptive Naming:  
-- I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
+   I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
 
-- 
-I applied modularity structure to encapsulate specific tasks into separate functions, promote maintainability and reusability.
-Consistent formatting and style choices are used throughout the codebase, contributing to its cleanliness and ease of understanding.
-
-By adhering to consistent formatting conventions, such as indentation, spacing, and naming conventions, the code becomes easier to read and understand. This consistency contributes to the overall cleanliness of the codebase, making it more organized and cohesive. As a result, developers can navigate through the code more efficiently, leading to enhanced comprehension and easier maintenance.
-
-1. Descriptive Naming:
-   - Use clear and descriptive variable and function names for improved readability.
-   
 2. Modularity:
-   - Encapsulate specific tasks into separate functions to promote maintainability and reusability.
-   
+   I applied modularity structure to encapsulate specific tasks into separate functions, promote maintainability and reusability.
+
 3. Consistent Formatting and Style:
-   - Maintain uniformity in indentation, spacing, and naming conventions throughout the codebase.
-   - Follow consistent widget placement in the graphical user interface (GUI).
+   By using consistent formatting conventions, such as indentation, spacing, and naming conventions, my code becomes easier to read and understand.
+   So the codebase is simpler to grasp, helping developers find their way around and make changes easily.
+   In the GUI, placing widgets in a consistent manner ensures a smoother user experience and helps maintain code clarity and organization.
    
 4. Comments:
-   - Include comments where necessary, following a consistent style, to provide additional clarity and explanation.
-     
+   My code includes helpful comments and a docstring at the beginning, acting like a user manual, explaining what each part of the code does and how to use it effectively.      This documentation ensures that anyone reading my code can quickly understand its functionality and purpose.
+
+
 DRY (Don't Repeat Yourself):
    - Avoid duplicating code by encapsulating reusable logic into functions or modules.
 
