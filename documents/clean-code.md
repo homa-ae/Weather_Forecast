@@ -1,6 +1,6 @@
 ## Clean Code Development:
 
-1. Descriptive Naming:  
+#### 1. Descriptive Naming:  
    I employed clear and descriptive variable and function names. So the code ensures readability, following clean code principles.
 
 2. Modularity:
