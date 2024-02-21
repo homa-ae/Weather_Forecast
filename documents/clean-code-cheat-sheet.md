@@ -1,5 +1,5 @@
 ## Clean Code Development Cheatsheet:
-1. Single Responsibility Principle (SRP):
+### 1. Single Responsibility Principle (SRP):
    Each function or class should have only one responsibility. This means that a function should have a clear, singular purpose, whether it's performing a calculation,          handling an input, or formatting data. By employing SRP, code becomes more modular, easier to understand, and simpler to maintain, as each component is responsible for     a specific task without unnecessary complexity.
    
 2. DRY (Don't Repeat Yourself):
