@@ -23,7 +23,7 @@
    * Consolidated Error Handling: Error handling is centralized within the get_weather() function. Instead of duplicating error handling code throughout the script, I             handled exceptions in a single location, promoting consistency and avoiding code duplication.
    * Overall, my code follows the DRY principle by encapsulating common functionality, reusing components, and consolidating error handling, which leads to more maintainable      and efficient code.
   
-7. KISS (Keep It Simple, Stupid)
+#### 6. KISS (Keep It Simple, Stupid)
    My code largely satisfies the KISS principle for several reasons:
    * Simple Design: The design of my weather application is straightforward and easy to understand. It focuses on essential functionality without unnecessary complexity.
    * Minimal Dependencies: My code relies on a minimal set of external libraries and modules, such as tkinter for GUI development and requests for API requests. This              minimalism reduces the complexity of your codebase.
