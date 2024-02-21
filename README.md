@@ -14,14 +14,14 @@ This project provides users with a convenient way to access accurate and up-to-d
 ## 4. Metrics
 I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 
-## Clean Code Development
+## 5. Clean Code Development
 [Clean Code](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md)  
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
 
-## Build
+## 6. Build
 [pybuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)
-## Continuous Delivery
-## Unit Tests
-## IDE
-## DSL
-## Functional Programming
+## 7. Continuous Delivery
+## 8. Unit Tests
+## 9. IDE
+## 10. DSL
+## 11. Functional Programming
