@@ -9,16 +9,15 @@ This project provides users with a convenient way to access accurate and up-to-d
 * The [Use Case Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Use%20Case%20Diagram.jpg)
 * The [Sequence Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Sequence%20Diagram.jpg)
 * The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Class%20Diagram.jpg)
-
 ## 3. DDD
 
 ## 4. Metrics
+
 I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 
 ## 5. Clean Code Development
 [Clean Code](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md)  
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
-
 ## 6. Build Management
 I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the 
