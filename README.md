@@ -20,8 +20,7 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
 
 ## 6. Build
-I've employed PyBuilder to manage the build process of the project. 
-[pybuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)
+I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the pyb --verbose command. This command will provide comprehensive details, including the outcomes of individual tests — identifying both those that passed successfully and those that failed. Additionally, the command will indicate whether the overall build process was successful or encountered any issues.
 ## 7. Continuous Delivery
 ## 8. Unit Tests
