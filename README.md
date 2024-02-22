@@ -1,7 +1,10 @@
 # Weather-Forecast
 ## Intro
 This project provides users with a convenient way to access accurate and up-to-date weather information based on their preferences and chosen locations.
-**_hh_**
+<kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+This is the highlighted text.
+</kbd>
+
 ## 1. Git
 
 ## 2. UML
