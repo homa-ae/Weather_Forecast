@@ -29,6 +29,7 @@ command.
 This command will provide comprehensive details, including the outcomes of individual tests, identifying both those that passed successfully and those that failed.  
 Additionally, the command will indicate whether the overall build process was successful or encountered any issues.
 ## 7. Continuous Delivery
+(https://github.com/homa-ae/Weather-Forecast/blob/main/.github/workflows/ci.yml)
 ## 8. Unit Tests
 ## 9. IDE
 ## 10. DSL
