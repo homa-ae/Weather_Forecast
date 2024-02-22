@@ -19,7 +19,7 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 [Clean Code](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md)  
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
 
-## 6. Build
+## 6. Build Management
 I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the 
 <kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
