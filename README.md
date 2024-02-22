@@ -1,9 +1,6 @@
 # Weather-Forecast
 ## Intro
 This project provides users with a convenient way to access accurate and up-to-date weather information based on their preferences and chosen locations.
-<kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-This is the highlighted text.
-</kbd>
 
 ## 1. Git
 
@@ -24,7 +21,11 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 
 ## 6. Build
 I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
-The build process will be initiated using the **pyb --verbose** command.   
+The build process will be initiated using the 
+<kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+pyb --verbose
+</kbd>
+command.   
 This command will provide comprehensive details, including the outcomes of individual tests, identifying both those that passed successfully and those that failed.  
 Additionally, the command will indicate whether the overall build process was successful or encountered any issues.
 ## 7. Continuous Delivery
