@@ -12,7 +12,6 @@ This project provides users with a convenient way to access accurate and up-to-d
 ## 3. DDD
 
 ## 4. Metrics
-
 I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 
 ## 5. Clean Code Development
