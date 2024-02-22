@@ -1,7 +1,7 @@
 # Weather-Forecast
 ## Intro
 This project provides users with a convenient way to access accurate and up-to-date weather information based on their preferences and chosen locations.
-<span style="background-color: #ffff99">Highlighted</span>
+<span style="background-color: #fff0099">Highlighted</span>
 
 ## 1. Git
 
