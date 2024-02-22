@@ -23,7 +23,7 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the 
 <kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-pyb --verbose
+**pyb --verbose**
 </kbd>
 command.   
 This command will provide comprehensive details, including the outcomes of individual tests, identifying both those that passed successfully and those that failed.  
