@@ -36,5 +36,13 @@ Additionally, the command will indicate whether the overall build process was su
 (https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py)
 
 ## 9. IDE
+My all-time favourite IDE is Visual Studio Code. I like this popular free and open-source code editor for some reasons:
+* It supports a wide range of programming languages.
+* It provides IntelliSense, an intelligent code completion feature that offers suggestions and auto-completions as you type.
+* It includes built-in support for debugging code, lets you find and fix mistakes in your code easily. 
+* It has built-in support for version control systems like Git, allowing you to manage your source code repositories directly within the editor.
+* In Visual Studio Code, you can split the editor to see different files or parts of the same file side by side, helping you compare and work on multiple sections at once,     which makes managing your code easier.
+
+
 ## 10. DSL
 ## 11. Functional Programming
