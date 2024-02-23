@@ -48,21 +48,21 @@ The statement "Use a good IDE and get fluent with it: e.g. Visual Studio Code" s
 
 As for favorite key shortcuts in Visual Studio Code, here are some commonly used ones:
 
-    ** Ctrl + S (Cmd + S on macOS): Save the current file.
-    ** Ctrl + Z (Cmd + Z on macOS): Undo the last action.
-    Ctrl + Shift + Z (Cmd + Shift + Z on macOS): Redo the last undone action.
-    Ctrl + X (Cmd + X on macOS): Cut the selected text.
-    Ctrl + C (Cmd + C on macOS): Copy the selected text.
-    Ctrl + V (Cmd + V on macOS): Paste the copied or cut text.
-    Ctrl + F (Cmd + F on macOS): Open the Find dialogue to search for text within the current file.
-    Ctrl + H (Cmd + Option + F on macOS): Open the Replace dialogue to search and replace text within the current file.
-    Ctrl + Shift + F (Cmd + Shift + F on macOS): Open the Find in Files dialogue to search for text across multiple files in the project.
-    Ctrl + G (Cmd + G on macOS): Go to a specific line number within the current file.
-    Ctrl + B (Cmd + B on macOS): Toggle the visibility of the sidebar.
-    Ctrl + P (Cmd + P on macOS): Quick Open, allowing you to quickly navigate to files within the project.
-    Ctrl + ` (Cmd + ` on macOS): Toggle the terminal panel.
-    Ctrl + Shift + E (Cmd + Shift + E on macOS): Focus on the file explorer sidebar.
-    Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.
+    * Ctrl + S (Cmd + S on macOS): Save the current file.
+    * Ctrl + Z (Cmd + Z on macOS): Undo the last action.
+    * Ctrl + Shift + Z (Cmd + Shift + Z on macOS): Redo the last undone action.
+    * Ctrl + X (Cmd + X on macOS): Cut the selected text.
+    * Ctrl + C (Cmd + C on macOS): Copy the selected text.
+    * Ctrl + V (Cmd + V on macOS): Paste the copied or cut text.
+    * Ctrl + F (Cmd + F on macOS): Open the Find dialogue to search for text within the current file.
+    * Ctrl + H (Cmd + Option + F on macOS): Open the Replace dialogue to search and replace text within the current file.
+    * Ctrl + Shift + F (Cmd + Shift + F on macOS): Open the Find in Files dialogue to search for text across multiple files in the project.
+    * Ctrl + G (Cmd + G on macOS): Go to a specific line number within the current file.
+    * Ctrl + B (Cmd + B on macOS): Toggle the visibility of the sidebar.
+    * Ctrl + P (Cmd + P on macOS): Quick Open, allowing you to quickly navigate to files within the project.
+    * Ctrl + ` (Cmd + ` on macOS): Toggle the terminal panel.
+    * Ctrl + Shift + E (Cmd + Shift + E on macOS): Focus on the file explorer sidebar.
+    * Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.
 
 ## 10. DSL
 ## 11. Functional Programming
