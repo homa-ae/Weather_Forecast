@@ -66,7 +66,11 @@ Here are some preferred keyboard shortcuts commonly used in Visual Studio Code:
 * Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.  
     
 ## 10. DSL
-* I developed a pseudocode language file as a small [DSL](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) Demo example snippet for easy comprehension of algorithms. 
+* I developed a
+<kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
+pseudocode language
+</kbd>
+file as a small [DSL](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) Demo example snippet for easy comprehension of algorithms. 
 * This DSL helps developers plan and understand the steps required to solve a problem or implement a particular functionality. 
 * It can also be used as a form of documentation to explain the logic of the algorithm or program to others.     
 
