@@ -63,6 +63,5 @@ As for favorite key shortcuts in Visual Studio Code, here are some commonly used
     * Ctrl + ` (Cmd + ` on macOS): Toggle the terminal panel.
     * Ctrl + Shift + E (Cmd + Shift + E on macOS): Focus on the file explorer sidebar.
     * Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.
-
 ## 10. DSL
 ## 11. Functional Programming
