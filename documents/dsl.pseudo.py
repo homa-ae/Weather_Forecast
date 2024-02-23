@@ -1,0 +1,31 @@
+/weather
+    prompt 'Enter the name of the city to get weather and air pollution information:'
+    city = user_input
+    return 'Displaying weather and air pollution information for [city].'
+
+/chart
+    prompt 'Enter the name of the city to get a weather chart:'
+    city = user_input
+    return 'Displaying weather chart for [city].'
+
+/help
+    return 'Available commands:
+            /help - Show available commands
+            /weather - Get weather and air pollution information for a city
+            /chart - Get a weather chart for a city
+            /forecast - Get a 7-day weather forecast for a city
+            /alerts - Check weather alerts for a city
+            /quit - Exit the weather app.'
+
+/forecast
+    prompt 'Enter the name of the city for the 7-day weather forecast:'
+    city = user_input
+    return 'Displaying 7-day weather forecast for [city].'
+
+/alerts
+    prompt 'Enter the name of the city to check for weather alerts:'
+    city = user_input
+    return 'Checking weather alerts for [city].'
+
+/quit
+    return 'Goodbye!'
