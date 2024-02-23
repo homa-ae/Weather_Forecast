@@ -22,7 +22,7 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 ## 6. Build Management
 I have employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the 
-<kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+<kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
 pyb --verbose
 </kbd>
 command.   
