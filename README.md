@@ -20,7 +20,7 @@ I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with Git
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
 
 ## 6. Build Management
-I've employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
+I have employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
 The build process will be initiated using the 
 <kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 pyb --verbose
@@ -36,7 +36,12 @@ Additionally, the command will indicate whether the overall build process was su
 (https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py)
 
 ## 9. IDE
-I'm particularly fond of Visual Studio Code (VS Code), my all-time favourite IDE. This widely-used, free, and open-source code editor appeals to me for several reasons:
+I'm particularly fond of 
+<kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+Visual Studio Code (VS Code)
+</kbd>
+
+, my all-time favourite IDE. This widely-used, free, and open-source code editor appeals to me for several reasons:
 * VS Code supports a wide range of programming languages.
 * It provides IntelliSense, an intelligent code completion feature that offers suggestions and auto-completions as you type.
 * This lightweight IDE includes built-in support for debugging code, lets you find and fix mistakes in your code easily. 
