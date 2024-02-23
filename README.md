@@ -40,7 +40,6 @@ I'm particularly fond of
 <kbd style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 Visual Studio Code (VS Code)
 </kbd>
-
 , my all-time favourite IDE. This widely-used, free, and open-source code editor appeals to me for several reasons:
 * VS Code supports a wide range of programming languages.
 * It provides IntelliSense, an intelligent code completion feature that offers suggestions and auto-completions as you type.
