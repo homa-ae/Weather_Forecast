@@ -44,10 +44,6 @@ I'm particularly fond of Visual Studio Code (VS Code), my all-time favourite IDE
 * In Visual Studio Code, you can split the editor to see different files or parts of the same file side by side, helping you compare and work on multiple sections at once,     which makes managing your code easier.
 
 Here are some preferred keyboard shortcuts commonly used in Visual Studio Code:
-The statement "Use a good IDE and get fluent with it: e.g. Visual Studio Code" suggests the importance of familiarizing oneself with a powerful Integrated Development Environment (IDE) such as Visual Studio Code (VS Code). An IDE like VS Code offers a wide range of features and tools that can significantly enhance a developer's productivity and efficiency.
-
-As for favorite key shortcuts in Visual Studio Code, here are some commonly used ones:
-
     * Ctrl + S (Cmd + S on macOS): Save the current file.
     * Ctrl + Z (Cmd + Z on macOS): Undo the last action.
     * Ctrl + Shift + Z (Cmd + Shift + Z on macOS): Redo the last undone action.
@@ -63,5 +59,6 @@ As for favorite key shortcuts in Visual Studio Code, here are some commonly used
     * Ctrl + ` (Cmd + ` on macOS): Toggle the terminal panel.
     * Ctrl + Shift + E (Cmd + Shift + E on macOS): Focus on the file explorer sidebar.
     * Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.
+    
 ## 10. DSL
 ## 11. Functional Programming
