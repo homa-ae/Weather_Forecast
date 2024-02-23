@@ -44,6 +44,7 @@ I'm particularly fond of Visual Studio Code (VS Code), my all-time favourite IDE
 * In Visual Studio Code, you can split the editor to see different files or parts of the same file side by side, helping you compare and work on multiple sections at once,     which makes managing your code easier.
 
 Here are some preferred keyboard shortcuts commonly used in Visual Studio Code:
+
     * Ctrl + S (Cmd + S on macOS): Save the current file.  
     * Ctrl + Z (Cmd + Z on macOS): Undo the last action.  
     * Ctrl + Shift + Z (Cmd + Shift + Z on macOS): Redo the last undone action.  
