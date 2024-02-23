@@ -38,7 +38,7 @@ Additionally, the command will indicate whether the overall build process was su
 ## 9. IDE
 I'm particularly fond of 
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
-#### Visual Studio Code (VS Code)
+Visual Studio Code (VS Code)
 </kbd>
 , my all-time favourite IDE. This widely-used, free, and open-source code editor appeals to me for several reasons:
 * VS Code supports a wide range of programming languages.
