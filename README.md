@@ -66,6 +66,6 @@ Here are some preferred keyboard shortcuts commonly used in Visual Studio Code:
 * Ctrl + Shift + F5 (Cmd + Shift + F5 on macOS): Restart the debug session.  
     
 ## 10. DSL
-(https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo)
+[DSL] (https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo)
 
 ## 11. Functional Programming
