@@ -3,7 +3,7 @@ from pybuilder.core import use_plugin, init
 use_plugin("python.core")
 use_plugin("python.unittest")
 
-name = "Weather Forecast"
+name = "Weather-Forecast"
 default_task = "publish"
 
 @init
