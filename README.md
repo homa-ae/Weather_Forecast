@@ -76,3 +76,5 @@ pseudocode language
 * It can also be used as a form of documentation to explain the logic of the algorithm or program to others.     
 
 ## 11. Functional Programming
+* ### Final Data Structures:
+  The code primarily uses dictionaries to structure data, particularly in cleaned_weather_data and airpollution_data. These dictionaries are not mutated after initialization. Lists are also used to hold pollutant values, which are likewise not mutated. Thus, the code predominantly utilizes final data structures.
