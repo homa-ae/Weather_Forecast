@@ -80,3 +80,4 @@ pseudocode language
 * Side-effect-free functions: The functions in the codebase primarily perform their intended tasks without causing side effects. They retrieve data, update GUI                 elements, and display charts without altering external states directly. This means they fetch information they need, like weather data or pollution levels, but don't         modify anything else in the program while doing so.
 * [higher-order function](https://github.com/homa-ae/Weather-Forecast/blob/main/src/high-order_function.py)
 * [function as parameter](https://github.com/homa-ae/Weather-Forecast/blob/main/src/function_as_parameter.py)
+* [](https://github.com/homa-ae/Weather-Forecast/blob/main/src/closure_anonymous_function.py)
