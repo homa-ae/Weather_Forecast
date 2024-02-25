@@ -1,6 +1,7 @@
 # Weather-Forecast
 ## Intro
-This project provides users with a convenient way to access accurate and up-to-date weather information based on their preferences and chosen locations.
+This software engineering project consists of eleven different parts, each addressing various aspects of development and implementation.
+It provides users with a convenient way to access accurate and up-to-date weather information based on their chosen locations.
 
 ## 1. Git
 
