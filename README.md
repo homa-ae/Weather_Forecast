@@ -20,8 +20,8 @@ The project includes six domains:
 * Forecasting
 * Visualization
 * User Interface
-    
-[DDD diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams/ddd-diagram.md)
+
+The [DDD diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams/ddd-diagram.md) depicts how this project has been divided into distinct domains and the connections between them.    
 
 ## 4. Metrics
 I integrated [SonarCloud](https://sonarcloud.io/projects?reliability=1) with GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
