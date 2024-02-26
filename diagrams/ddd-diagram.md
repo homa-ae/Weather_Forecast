@@ -1,4 +1,3 @@
 # DDD Event Storming
 
-
-[image](https://github.com/homa-ae/Weather_Forecast/assets/147973198/455c5ff8-275b-4823-ab6f-26e9abc0ff22)
+![image](https://github.com/homa-ae/Weather_Forecast/assets/147973198/28cd17b9-7fdf-4ab4-8e27-3af3a0c06625)
