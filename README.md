@@ -13,6 +13,14 @@ GitHub provides an easy-to-use platform for storing code, collaborating with oth
 * The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Class%20Diagram.jpg)
   
 ## 3. DDD
+The project includes six domains:
+* Data Collection
+* Data Processing
+* Machine Learning
+* Forecasting
+* Visualization
+* User Interface
+    
 [DDD diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams/ddd-diagram.md)
 
 ## 4. Metrics
