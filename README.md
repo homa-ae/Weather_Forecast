@@ -1,10 +1,12 @@
 # Weather_Forecast
 ## Intro
-This software engineering project consists of eleven different parts, each addressing various aspects of development and implementation.
+This software engineering project consists of eleven different parts, each addressing various aspects of development and implementation.  
 It provides users with a convenient way to access accurate and up-to-date weather information based on their chosen locations.
 
 ## 1. Git
-GitHub provides an easy-to-use platform for storing code, collaborating with others, and managing projects. It facilitates teamwork on code changes, lets developers track issues, create pull requests for code review, and integrate with other tools to streamline their development process. With GitHub Actions, automating tasks like testing and deployment is made even easier.
+GitHub provides an easy-to-use platform for storing code, collaborating with others, and managing projects.    
+It facilitates teamwork on code changes, lets developers track issues, create pull requests for code review, and integrate with other tools to streamline their development process.    
+With GitHub Actions, automating tasks like testing and deployment is made even easier.
 
 ## 2. UML
 * The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Entity-Relationship%20Diagram.jpg) 
