@@ -9,8 +9,8 @@ It facilitates teamwork on code changes, lets developers track issues, create pu
 With GitHub Actions, automating tasks like testing and deployment is made even easier.
 
 ## 2. UML
-I have employed the following UML Diagrams for this project :   
-* The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Entity-Relationship%20Diagram.jpg) 
+I have employed the following UML Diagrams for this project:   
+* The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Entity-Relationship%20Diagram.jpg) which represents the relationships        between entities in the system.
 * The [Use Case Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Use%20Case%20Diagram.jpg)
 * The [Sequence Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Sequence%20Diagram.jpg)
 * The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Class%20Diagram.jpg)
