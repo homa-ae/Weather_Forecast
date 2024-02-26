@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize, reopened]   
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12.1'
+
+    - name: Install Dependencies
+      run: |
+          python -m pip install --upgrade pip
+          pip install geopy timezonefinder requests pytz matplotlib
+      
+    - name: Lint
+        run: |
+          autopep8 --in-place --recursive ./src/
+
+      - name: Test and Build
+        run: |
+          pyb --verbose
