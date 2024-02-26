@@ -4,7 +4,7 @@ use_plugin("python.core")
 use_plugin("python.unittest")
 use_plugin("python.coverage")
 
-name = "Weather Forecast"
+name = "Weather_Forecast"
 default_task = "publish"
 
 @init
