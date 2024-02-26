@@ -10,10 +10,10 @@ With GitHub Actions, automating tasks like testing and deployment is made even e
 
 ## 2. UML
 I have employed the following UML Diagrams for this project :   
-* The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Entity-Relationship%20Diagram.jpg) 
-* The [Use Case Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Use%20Case%20Diagram.jpg)
-* The [Sequence Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Sequence%20Diagram.jpg)
-* The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/Diagrams/Class%20Diagram.jpg)
+* The [Entity-Relationship Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Entity-Relationship%20Diagram.jpg) 
+* The [Use Case Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Use%20Case%20Diagram.jpg)
+* The [Sequence Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Sequence%20Diagram.jpg)
+* The [Class Diagram](https://github.com/homa-ae/Weather-Forecast/blob/main/diagrams/Class%20Diagram.jpg)
   
 ## 3. DDD
 The project includes six domains:
