@@ -8,7 +8,14 @@ name = "Weather_Forecast"
 default_task = "publish"
 
 @init
-def initialize(project):
-    project.set_property("dir_source_main_python", "src")  
-    project.set_property("dir_source_unittest_python", "src/test")  
-    project.depends_on("requests")  
+def set_properties(project):
+    project.set_property("dir_source_main_python", "src")
+    project.set_property("dir_source_unittest_python", "src/test")
+    project.set_property("dir_docs", "documents")
+    project.set_property("coverage_break_build", False)
+    
+#@init
+#def initialize(project):
+    #project.set_property("dir_source_main_python", "src")  
+    #project.set_property("dir_source_unittest_python", "src/test")  
+    #project.depends_on("requests")  
