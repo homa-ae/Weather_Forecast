@@ -1,4 +1,4 @@
-/weather
+/weather  
     prompt 'Enter the name of the city to get weather and air pollution information:'
     city = user_input
     return 'Displaying weather and air pollution information for [city].'
