@@ -1,5 +1,5 @@
 # Weather_Forecast
-## Intronnn
+## Intro
 This software engineering project consists of eleven different parts, each addressing various aspects of development and implementation.  
 It provides users with a convenient way to access accurate and up-to-date weather information based on their chosen locations.
 
