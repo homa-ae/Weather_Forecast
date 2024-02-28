@@ -53,7 +53,7 @@ GitHub Action
 * [Metrics](https://github.com/homa-ae/Weather_Forecast/blob/main/.github/workflows/metrics.yml)
 
 ## 8. Unit Tests
-(https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py)
+[This file](https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py) consistes of small Unit tests of software application to make sure individual parts of the software work correctly in isolation.
 
 ## 9. IDE
 I'm particularly fond of 
