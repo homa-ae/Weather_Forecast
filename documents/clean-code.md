@@ -7,8 +7,8 @@
    I applied modularity structure to encapsulate specific tasks into separate functions, promote maintainability and reusability.
 
 #### 3. Consistent Formatting and Style:
-   By using consistent formatting conventions, such as indentation, spacing, and naming conventions, my code becomes easier to read and understand.
-   So the codebase is simpler to grasp, helping developers find their way around and make changes easily.
+   By using consistent formatting conventions, such as indentation, spacing, and naming conventions, my code becomes easier to read and understand.   
+   So the codebase is simpler to grasp, helping developers find their way around and make changes easily.    
    In the GUI, placing widgets in a consistent manner ensures a smoother user experience and helps maintain code clarity and structure.
    
 #### 4. Comments:
