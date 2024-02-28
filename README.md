@@ -24,7 +24,7 @@ The project includes six domains:
 * Visualization
 * User Interface
 
-The [DDD diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams/ddd-diagram.md) depicts how this project has been divided into distinct domains and the connections between them.    
+The [DDD Diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams/ddd-diagram.md) depicts how this project has been divided into distinct domains and the connections between them.    
 
 ## 4. Metrics
 I applied [SonarCloud](https://sonarcloud.io/projects) and GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
@@ -87,7 +87,7 @@ used by me in Visual Studio Code:
 * Ctrl + Shift + F5: Restart the debug session.  
     
 ## 10. DSL
-I developed a [pseudocode language](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) file as a small
+I developed a [Pseudocode Language](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) file as a small
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
 Domain-Specific Language (DSL) </kbd>
 Demo example snippet for the following reasons:
