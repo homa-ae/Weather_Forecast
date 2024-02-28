@@ -46,14 +46,16 @@ command to manage the build process of the project along with comprehensive deta
 ## 7. Continuous Delivery
 For the Continuous Delivery Pipeline, I've applied
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
-GitHub Action
-</kbd>
+GitHub Action </kbd>
 , which consists of two workflows:  
 * [Build](https://github.com/homa-ae/Weather_Forecast/blob/main/.github/workflows/build.yml)
 * [Metrics](https://github.com/homa-ae/Weather_Forecast/blob/main/.github/workflows/metrics.yml)
 
 ## 8. Unit Tests
-[This file](https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py) consistes of small Unit tests of software application to make sure individual parts of the software work correctly in isolation.
+[This file](https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py) consistes of small
+<kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
+Unit tests </kbd>
+of software application to make sure individual parts of code work correctly in isolation.
 
 ## 9. IDE
 I'm particularly fond of 
