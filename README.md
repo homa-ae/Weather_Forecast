@@ -30,7 +30,7 @@ The [DDD diagram](https://github.com/homa-ae/Weather_Forecast/blob/main/diagrams
 I applied [SonarCloud](https://sonarcloud.io/projects) and GitHub Actions to analyze my project's metrics, with the goal of enhancing its performance and overall quality.
 
 ## 5. Clean Code Development
-[Clean Code](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md)  
+Here are the reasons that I implemented [Clean Code](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md) programming.  
 [Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
 
 ## 6. Build Management
