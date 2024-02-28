@@ -12,8 +12,8 @@
    In the GUI, placing widgets in a consistent manner ensures a smoother user experience and helps maintain code clarity and structure.
    
 #### 4. Comments:
-   My code includes helpful comments and a docstring at the beginning, acting like a user manual, explaining what each part of the code does and how to use it effectively.      This documentation ensures that anyone reading my code can quickly understand its functionality and purpose.
-   This approach not only makes it easier for me to maintain and update the code but also encourages collaboration among other developers who may need to work with it in        the future.
+   My code includes helpful comments and a docstring at the beginning, acting like a user manual, explaining what each part of the code does and how to use it effectively.      This documentation ensures that anyone reading my code can quickly understand its functionality and purpose.    
+   This approach not only makes it easier for me to maintain and update the code but also encourages collaboration among other developers who may need to work with it in        the future.   
    The use of comments and a docstring in the code exemplifies the principles of clean code development by promoting transparency and organization. 
 
 #### 5. DRY (Don't Repeat Yourself):
