@@ -60,8 +60,7 @@ of software application to make sure individual parts of code work correctly in 
 ## 9. IDE
 I'm particularly fond of 
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
-Visual Studio Code (VS Code)
-</kbd>
+Visual Studio Code (VS Code) </kbd>
 , my all-time favourite IDE. This widely-used, free, and open-source code editor appeals to me for several reasons:
 * VS Code supports a wide range of programming languages.
 * It provides IntelliSense, an intelligent code completion feature that offers suggestions and auto-completions as you type.
@@ -69,7 +68,10 @@ Visual Studio Code (VS Code)
 * It has built-in support for version control systems like Git, allowing you to manage your source code repositories directly within the editor.
 * In Visual Studio Code, you can split the editor to see different files or parts of the same file side by side, helping you compare and work on multiple sections at once,     which makes managing your code easier.
 
-Here are some preferred keyboard shortcuts used by me in Visual Studio Code:
+Here are some preferred
+<kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
+keyboard shortcuts </kbd> 
+used by me in Visual Studio Code:
 * Ctrl + S: Save the current file  
 * Ctrl + Z: Undo the last action 
 * Ctrl + Shift + Z: Redo the last undone action
