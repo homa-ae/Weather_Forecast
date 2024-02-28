@@ -98,7 +98,7 @@ Demo example snippet for the following reasons:
 
 ## 11. Functional Programming
 Some Functional Programming Aspects:   
-* <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;"Final Data Structure:</kbd>
+* <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">Final Data Structure:</kbd>
 Demo example snippet for the following r This code primarily uses dictionaries to structure data, particularly in cleaned_weather_data and airpollution_data. These dictionaries are not mutated after initialization. Lists are also used to hold pollutant values, which are likewise not mutated. These dictionaries are used as containers to hold data retrieved from external APIs (OpenWeatherMap and OpenAQ), and their content is not intended to be modified within the application and remain unchanged throughout the program's execution. Therefore, the code predominantly utilizes final data structures.
 * Side-Effect-Free Function: The functions in the codebase primarily perform their intended tasks without causing side effects. They retrieve data, update GUI elements, and display charts without altering external states directly. This means they fetch information they need, like weather data or pollution levels, but do not modify anything else in the program while doing so.
 * [Here](https://github.com/homa-ae/Weather-Forecast/blob/main/src/high-order_function.py) is an example of Higher-Order Function.
