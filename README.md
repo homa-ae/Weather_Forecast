@@ -48,7 +48,7 @@ This command will provide comprehensive details, including the outcomes of indiv
 Additionally, the command will indicate whether the overall build process was successful or encountered any issues.
 
 ## 7. Continuous Delivery
-(https://github.com/homa-ae/Weather-Forecast/blob/main/.github/workflows/ci.yml)
+[here](https://github.com/homa-ae/Weather_Forecast/blob/main/.github/workflows/build.yml)
 
 ## 8. Unit Tests
 (https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py)
