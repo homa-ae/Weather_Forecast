@@ -18,11 +18,11 @@
 
 #### 5. DRY (Don't Repeat Yourself):
    My code follows the DRY principle which leads to more efficient code in several ways:
-   ### * Function Encapsulation:  
+   ##### * Function Encapsulation:  
      I encapsulated repetitive tasks into functions. For example, the get_weather() function is responsible for retrieving weather and air pollution       data for a given        city and updating the GUI with the retrieved information. By encapsulating this functionality into a single function, I avoided duplicating the code         needed to        fetch and display weather and air pollution data.
-   ### * Reusable Components:  
+   ##### * Reusable Components:  
      Within the get_weather() function, I reused the same logic for handling weather data and air pollution data. Instead of duplicating code for each        type of data, I    used similar mechanisms to extract relevant information and update the GUI accordingly.
-   ### * Consolidated Error Handling:  
+   ##### * Consolidated Error Handling:  
      Error handling is centralized within the get_weather() function. Instead of duplicating error handling code throughout the script, I             handled exceptions in a      single location, promoting consistency and avoiding code duplication. 
   
 #### 6. KISS (Keep It Simple, Stupid)
