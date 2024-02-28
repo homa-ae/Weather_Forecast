@@ -87,13 +87,13 @@ used by me in Visual Studio Code:
 * Ctrl + Shift + F5: Restart the debug session.  
     
 ## 10. DSL
-I developed a
+I developed a [pseudocode language](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) file as a small
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
-pseudocode language
-</kbd> file as a small [Domain-Specific Language (DSL)](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/dsl.pseudo) Demo example snippet for the following reasons:
+Domain-Specific Language (DSL) </kbd>
+Demo example snippet for the following reasons:
 * Easy comprehension of algorithms.
-* Helping developers plan and understand the steps required to solve a problem or implement a particular functionality.
 * It outlines the logic of their algorithm or program in a clear and structured manner.
+* Helping developers plan and understand the steps required to solve a problem or implement a particular functionality.
 * It can also be used as a form of documentation to explain the logic of the algorithm or program to others.     
 
 ## 11. Functional Programming
