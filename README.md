@@ -54,7 +54,7 @@ GitHub Action </kbd>
 ## 8. Unit Tests
 [This file](https://github.com/homa-ae/Weather-Forecast/blob/main/src/test/test_weather_forecast.py) consistes of small
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
-Unit tests </kbd>
+Unit Tests </kbd>
 of software application to make sure individual parts of code work correctly in isolation.
 
 ## 9. IDE
