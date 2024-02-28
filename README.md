@@ -38,7 +38,7 @@ Clean Code Programming </kbd>.
 [Clean Code Development (CCD) Cheat Sheet] </kbd>.
 
 ## 6. Build Management
-I have employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py) using the  
+I have employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py) using the
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
 pyb --verbose </kbd>
 command to manage the build process of the project with omprehensive details.
