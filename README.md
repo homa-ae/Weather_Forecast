@@ -33,7 +33,9 @@ I applied [SonarCloud](https://sonarcloud.io/projects) and GitHub Actions to ana
 [Here](https://github.com/homa-ae/Weather-Forecast/blob/main/documents/clean-code.md) are the reasons that I implemented 
 <kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
 Clean Code Programming </kbd>.  
-[Clean Code Development (CCD) Cheat Sheet](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md)
+[This](https://github.com/homa-ae/Weather-Forecast/edit/main/documents/clean-code-cheat-sheet.md) is a python 
+<kbd style="font-size: 20px; padding: 10px; border-radius: 5px; background-color: #f0f0f0;">
+[Clean Code Development (CCD) Cheat Sheet] </kbd>.
 
 ## 6. Build Management
 I have employed [PyBuilder](https://github.com/homa-ae/Weather-Forecast/blob/main/build.py)  to manage the build process of the project.   
