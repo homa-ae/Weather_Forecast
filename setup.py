@@ -39,7 +39,7 @@ if py2:
     FileNotFoundError = OSError
 
 
-def install_pyb():
+def install_pyb():   
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "pybuilder"])
     except subprocess.CalledProcessError as e:
