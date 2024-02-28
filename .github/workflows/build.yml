@@ -36,6 +36,6 @@ jobs:
         run: |
           autopep8 --in-place --recursive ./src/
 
-      #- name: Test and Build
-        #run: |
-          #pyb --verbose
+      - name: Test and Build
+        run: |
+          pyb --verbose
