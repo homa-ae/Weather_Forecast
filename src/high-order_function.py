@@ -1,4 +1,4 @@
-# Define a class to represent weather data
+# Define a class to represent weather data 
 class WeatherData:
     def __init__(self, temperature, humidity, wind_speed):
         self.temperature = temperature
