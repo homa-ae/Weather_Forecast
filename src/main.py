@@ -174,11 +174,6 @@ logo_image = tk.PhotoImage(file="logo.png")
 logo_image_label = tk.Label(root, image=logo_image, bg="lightblue")
 logo_image_label.pack(side=tk.TOP)
 
-# Create frame image label
-frame_image = tk.PhotoImage(file="box.png")
-frame_image_label = tk.Label(root, image=frame_image, bg="lightblue")
-frame_image_label.pack(pady=10, side=tk.BOTTOM)
-
 country_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 country_label.place(x=120, y=120)
 
@@ -208,19 +203,19 @@ no2_label.place(x=590, y=240)
 
 # Create labels for weather information
 wind_label = tk.Label(root, text="WIND", font=("Helvetica", 15, "bold"),
-                  fg="White", bg="#1ab5ef")
+                  fg="#000000", bg="lightblue")
 wind_label.place(x=120, y=400)
 
 humidity_label = tk.Label(root, text="HUMIDITY", font=("Helvetica", 15, "bold"),
-                  fg="White", bg="#1ab5ef")
+                  fg="#000000", bg="lightblue")
 humidity_label.place(x=280, y=400)
 
 description_label = tk.Label(root, text="DESCRIPTION", font=("Helvetica", 15, "bold"),
-                  fg="White", bg="#1ab5ef")
+                  fg="#000000", bg="lightblue")
 description_label.place(x=450, y=400)
 
 pressure_label = tk.Label(root, text="PRESSURE", font=("Helvetica", 15, "bold"),
-                  fg="White", bg="#1ab5ef")
+                  fg="#000000", bg="lightblue")
 pressure_label.place(x=670, y=400)
 
 # Define labels for displaying weather information
@@ -231,19 +226,19 @@ condition_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="l
 condition_label.place(x=590, y=270)
 
 wind_label_dots = tk.Label(root, text="...", font=("arial", 20, "bold"),
-                      bg="#1ab5ef", fg="#404040")
+                      bg="lightblue", fg="#4b4bcc")
 wind_label_dots.place(x=120, y=430)
 
 humidity_label_dots = tk.Label(root, text="...", font=("arial", 20, "bold"),
-                      bg="#1ab5ef", fg="#404040")
+                      bg="lightblue", fg="#4b4bcc")
 humidity_label_dots.place(x=280, y=430)
 
 description_label_dots = tk.Label(root, text="...", font=("arial", 20, "bold"),
-                      bg="#1ab5ef", fg="#404040")
+                      bg="lightblue", fg="#4b4bcc")
 description_label_dots.place(x=450, y=430)
 
 pressure_label_dots = tk.Label(root, text="...", font=("arial", 20, "bold"),
-                      bg="#1ab5ef", fg="#404040")
+                      bg="lightblue", fg="#4b4bcc")
 pressure_label_dots.place(x=670, y=430)
 
 # Run the application
