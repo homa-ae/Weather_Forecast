@@ -128,7 +128,7 @@ def get_weather():
 
             # Update labels with weather information
             #temp_label.config(text=f"{temp}°C")
-            condition_label.config(text=f"{condition} | Feels similar to {temp}°C")
+            condition_label.config(text=f"{condition} | Feels like {temp}°C")
             wind_label_dots.config(text=wind)
             humidity_label_dots.config(text=humidity)
             description_label_dots.config(text=description)
