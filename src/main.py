@@ -1,3 +1,31 @@
+"""
+A simple weather application using tkinter to display weather and air pollution information for a given city.
+
+Dependencies:
+    - tkinter
+    - messagebox
+    - geopy.geocoders
+    - timezonefinder
+    - datetime
+    - requests
+    - pytz
+    - json
+    - matplotlib.pyplot
+
+Functions:
+    display_air_pollution_chart(pm25, pm10, o3, no2):
+        Display air pollution data in a bar chart.
+
+    get_weather():
+        Retrieve weather and air pollution data for a given city, update the GUI with the retrieved information,
+        and display a chart.
+
+Usage:
+    Run the script to open the Weather App GUI. Enter the city name in the search field and click the search icon
+    to fetch and display weather and air pollution information.
+"""
+
+
 import tkinter as tk
 from tkinter import messagebox
 import geopy.geocoders
@@ -60,21 +88,21 @@ def get_weather():
         response = requests.get(api_url)
         weather_data = response.json()
 
-        # Fetch air pollution data from OpenAQ API   ********
+        # Fetch air pollution data from OpenAQ API  
         api_url_airpollution = f"https://api.openaq.org/v1/latest?coordinates={lat},{lng}"
         response_airpollution = requests.get(api_url_airpollution)
         airpollution_data = response_airpollution.json()
 
-        #****
+        #
         # Remove duplicates from weather data
         cleaned_weather_data = {}
         # Assuming 'dt' field contains the timestamp
         timestamp = weather_data['dt'] 
         # Only keep the latest entry for each timestamp
         cleaned_weather_data[timestamp] = weather_data
-        #****
+        #
 
-        # # Extract relevant air pollution information ********
+        # # Extract relevant air pollution information 
         # Check if air pollution data is available
         if 'results' in airpollution_data and airpollution_data['results']:
             airpollution_values = airpollution_data['results'][0]['measurements']
@@ -86,8 +114,8 @@ def get_weather():
             pm25 = pm10 = o3 = no2 = "N/A"            
 
         # Extract relevant weather information
-        #**** Here you would loop over the cleaned_weather_data dictionary and extract the required information
-        #**** This code assumes that the cleaned data structure is the same as the original weather data structure
+        # Here you would loop over the cleaned_weather_data dictionary and extract the required information
+        # This code assumes that the cleaned data structure is the same as the original weather data structure
         for timestamp, data in cleaned_weather_data.items():
             condition = weather_data["weather"][0]["main"]
             #print(condition)
@@ -106,7 +134,7 @@ def get_weather():
             description_label_dots.config(text=description)
             pressure_label_dots.config(text=pressure)
 
-            # Update labels with air pollution information   ********
+            # Update labels with air pollution information   
             pm25_label.config(text=f"PM2.5: {pm25} µg/m³")
             pm10_label.config(text=f"PM10: {pm10} µg/m³")
             o3_label.config(text=f"O3: {o3} µg/m³")
@@ -123,62 +151,59 @@ root = tk.Tk()
 root.title("Weather App")
 root.geometry("900x500+300+200")
 root.resizable(False, False)
+root.configure(bg="lightblue")  # Set background color to light blue
 
 # Create search image label
 search_image = tk.PhotoImage(file="search.png")
-search_image_label = tk.Label(root, image=search_image)
+search_image_label = tk.Label(root, image=search_image, bg="lightblue")
 search_image_label.pack(pady=20, side=tk.TOP)
 
 # Create widgets
-textfield = tk.Entry(root, justify="center", width=17,
+textfield = tk.Entry(root, justify="center", width=14,
                     font=("poppins", 25, "bold"),
-                    bg="#404040", fg="white", border=0) 
-textfield.place(x=280, y=40)
+                    bg="lightblue", fg="#000000", border=0) 
+textfield.place(x=300, y=40)
 
 search_icon = tk.PhotoImage(file="search_icon.png")
 search_icon_button = tk.Button(root, image=search_icon, border=0,
-                               cursor="hand2", bg="#404040", command=get_weather)
-
-search_icon_button.place(x=590, y=34)
+                               cursor="hand2", bg="lightblue", command=get_weather)
+search_icon_button.place(x=620, y=22)
 
 # Create logo image label
 logo_image = tk.PhotoImage(file="logo.png")
-logo_image_label = tk.Label(root, image=logo_image)
+logo_image_label = tk.Label(root, image=logo_image, bg="lightblue")
 logo_image_label.pack(side=tk.TOP)
 
 # Create frame image label
 frame_image = tk.PhotoImage(file="box.png")
-frame_image_label = tk.Label(root, image=frame_image)
+frame_image_label = tk.Label(root, image=frame_image, bg="lightblue")
 frame_image_label.pack(pady=10, side=tk.BOTTOM)
 
-country_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+country_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 country_label.place(x=120, y=120)
 
-province_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+province_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 province_label.place(x=120, y=150)
 
-city_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+city_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 city_label.place(x=120, y=180)
 
-time_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc")
+time_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 time_label.place(x=120, y=230)
 
-clock = tk.Label(root, font=("Helvetica", 15, "bold"), fg="#4b4bcc")
+clock = tk.Label(root, font=("Helvetica", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 clock.place(x=120, y=270)
 
-
-#*********************
-
-pm25_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+pm25_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 pm25_label.place(x=590, y=150)
 
-pm10_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+pm10_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 pm10_label.place(x=590, y=180)
 
-o3_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+o3_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 o3_label.place(x=590, y=210)
 
-no2_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+no2_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 no2_label.place(x=590, y=240)
 
 # Create labels for weather information
@@ -202,7 +227,7 @@ pressure_label.place(x=670, y=400)
 #temp_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
 #temp_label.place(x=590, y=170)
 
-condition_label = tk.Label(root, font=("arial", 15, "bold"), fg="#e355cd")
+condition_label = tk.Label(root, font=("arial", 15, "bold"), fg="#4b4bcc", bg="lightblue")
 condition_label.place(x=590, y=270)
 
 wind_label_dots = tk.Label(root, text="...", font=("arial", 20, "bold"),
